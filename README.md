@@ -1,16 +1,13 @@
-## Hi there 👋
+# Muhammed Demir
 
-<!--
-**MuDem-56/MuDem-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Development Engineer focused on Machine Vision, Computer Vision and Industrial Imaging.
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Vision
+- Computer Vision
+- Optics & Illumination
+- Industrial Imaging
+- Programming & Software Development
+
+> Exploring the intersection of technology, vision and perception.
